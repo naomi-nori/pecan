@@ -3,10 +3,6 @@
 /* import colors */
 :root {
   /* background colors */
-  --pecan-bg-pecanworkspace: #202020;
-  --pecan-bg-pecandate: var(--pecan-bg-pecanworkspace);
-  --pecan-bg-pecanclock: var(--pecan-bg-pecanworkspace);
-  --pecan-xanthia-image-bg: var(--pecan-bg-pecanworkspace);
   --pecan-bg: hsl(206, 75%, 86%);
   --pecan-bg-pecanworkspace: #ff778f;
   --pecan-bg-pecannetwork: var(--pecan-bg-pecandate);
